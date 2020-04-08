@@ -1,6 +1,5 @@
 # ADA-DHOxSS2019
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3352830.svg)](https://doi.org/10.5281/zenodo.3352830) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mromanello/ADA-DHOxSS2019/master) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BL-Labs/ADA-DHOxSS/)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3352830.svg)](https://doi.org/10.5281/zenodo.3352830) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mromanello/ADA-DHOxSS2019/master)
 
 Teaching materials for the [Applied Data Analysis (ADA) workshop](https://www.dhoxss.net/applied-data-analysis) at DHOxSS 2019.
 
